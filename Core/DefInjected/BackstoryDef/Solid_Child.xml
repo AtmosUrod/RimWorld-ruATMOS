@@ -1967,12 +1967,12 @@
   <!-- EN: tech kid -->
   <TechnicalKid1.titleShort>техник</TechnicalKid1.titleShort>
   
-  <!-- EN: [PAWN_nameDef] was a youth scholar of the world of science and technology.\n\n[PAWN_pronoun] strived every day to expand [PAWN_possessive] intellectual abilities. -->
+  <!-- EN: [PAWN_nameDef] hung around a group of local luddite farmers on [PAWN_possessive] midworld. They helped [PAWN_objective] practice shooting every single day, and passed on some basic farming skills. They also taught [PAWN_nameDef] how to focus on working hard with your hands instead of getting distracted by highfalutin' ideas and clever machines. -->
   <TechScholar75.baseDesc>В юном возрасте {PAWN_nameDef} {PAWN_gender ? стремился : стремилась} получить образование, чтобы погрузится в мир науки и высоких технологий.\n\nКаждый день {PAWN_pronoun} {PAWN_gender ? прилагал : прилагала} усилия к тому, чтобы ещё больше развить свои интеллектуальные способности.</TechScholar75.baseDesc>
-  <!-- EN: tech scholar -->
+  <!-- EN: farm kid -->
   <TechScholar75.title>студент-технарь</TechScholar75.title>
   <TechScholar75.titleFemale>студентка-технарь</TechScholar75.titleFemale>
-  <!-- EN: scholar -->
+  <!-- EN: farm kid -->
   <TechScholar75.titleShort>студент</TechScholar75.titleShort>
   <TechScholar75.titleShortFemale>студентка</TechScholar75.titleShortFemale>
   

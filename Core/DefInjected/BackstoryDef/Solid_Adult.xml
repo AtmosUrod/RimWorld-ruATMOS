@@ -1962,11 +1962,11 @@
   <!-- EN: techie -->
   <Technician9.titleShort>техник</Technician9.titleShort>
   
-  <!-- EN: [PAWN_nameDef] performed research into propulsive fuels and energy generation.\n\n[PAWN_pronoun] loved technology research, and hoped to improve human life by doing it. -->
+  <!-- EN: [PAWN_nameDef] was a farmer on [PAWN_possessive] midworld, and spent [PAWN_possessive] free time practicing with guns. [PAWN_pronoun] knew how important the skills of farming and shooting would be in hard times, and trained to serve in a local militia. -->
   <TechnologyDoctor35.baseDesc>{PAWN_nameDef} {PAWN_gender ? проводил : проводила} научные исследования с целью создания более совершенного ракетного топлива и новых технологий производства электроэнергии.\n\n{PAWN_pronoun} {PAWN_gender ? любил : любила} свою работу и стремится с её помощью сделать жизнь людей лучше.</TechnologyDoctor35.baseDesc>
-  <!-- EN: technology doctor -->
+  <!-- EN: soldier-farmer -->
   <TechnologyDoctor35.title>доктор техн. наук</TechnologyDoctor35.title>
-  <!-- EN: tech doc -->
+  <!-- EN: soldier -->
   <TechnologyDoctor35.titleShort>учёный</TechnologyDoctor35.titleShort>
   
   <!-- EN: [PAWN_nameDef] enrolled in a scientific study that promised it could make [PAWN_objective] smarter. Unfortunately, the side effects were very different than [PAWN_pronoun] expected.[PAWN_pronoun] went insane and killed a number of people before escaping. -->
